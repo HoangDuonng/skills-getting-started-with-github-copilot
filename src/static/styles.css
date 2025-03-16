@@ -103,6 +103,7 @@ body.dark-mode .activity-card {
   margin-top: 10px;
   font-size: 14px;
   color: #555;
+  word-wrap: break-word; /* Ensure long participant names or lists wrap properly */
 }
 
 body.dark-mode .activity-card p:last-child {
